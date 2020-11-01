@@ -1,6 +1,4 @@
-/me selects an arrow from the Speed Quiver and fires it down range...
-#DEX
-/roll 1d6 damage
-If the attack roll was 13 or greater, the archer reaches for another arrow from the Speed Quiver.
-If the attack roll was 15 or greater, the target will suffer damage for 1d4 rounds.
-/r 1d4
+&{template:default} {{name=@{Selected|name} Speed Quiver (Far)}} {Image URL|(http://www.animated-gifs.eu/war-bow/0043.gif)} {{Dexterity =[[1d20+@{Selected|dex}]]}}{{If the attack roll was 13 or greater, the archer reaches for another arrow from the Speed Quiver.}} {{On a 15+ or greater, the target will suffer poison damage for [[1d4]] rounds.}}{{[Weapon.](!
+#Weapon)}}{{[Magic.](!
+#Magic)}}{{[Ultimate.](!
+#Ultimate)}}
