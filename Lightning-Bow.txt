@@ -1,3 +1,0 @@
-/me sends a magical arrow down range with the Lightning Bow...
-#DEX
-/roll 1d8 magical damage
