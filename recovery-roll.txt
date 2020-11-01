@@ -1,0 +1,1 @@
+&{template:default} {{name=Barnaby activates a **RECOVERY** action.}} {{CON CHECK [[1d20+@{Barnaby|constitution}]]=If Barnaby successfully rolled the CON STAT CHECK he gains [[@{Barnaby|constitution}+1]] HP.}} {{"Nothing my trusty flagon couldn't help with."=[Amazing recovery!](https://i.pinimg.com/originals/32/87/30/3287301dc9cd5bac2ee4b1bdacd05708.jpg)}}
