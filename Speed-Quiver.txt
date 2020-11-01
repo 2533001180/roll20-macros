@@ -1,4 +1,0 @@
-&{template:default} {{name=@{Selected|name} Speed Quiver (Far)}} {Image URL|(http://www.animated-gifs.eu/war-bow/0043.gif)} {{Dexterity =[[1d20+@{Selected|dex}]]}}{{If the attack roll was 13 or greater, the archer reaches for another arrow from the Speed Quiver.}} {{On a 15+ or greater, the target will suffer poison damage for [[1d4]] rounds.}}{{[Weapon.](!
-#Weapon)}}{{[Magic.](!
-#Magic)}}{{[Ultimate.](!
-#Ultimate)}}

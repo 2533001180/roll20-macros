@@ -1,7 +1,0 @@
-/me selects a magical arrow from the Speed Quiver and fires it down range...
-#DEX
-/roll 1d8 magical damage
-
-If the attack roll was 13 or greater, the archer reaches for another magical arrow from the Speed Quiver.
-
-Twonk's magical arrow inventory is reduced by one.
