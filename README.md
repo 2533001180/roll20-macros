@@ -9,4 +9,4 @@ Roll20 macros can spice up your ordinary rolls to add flavor to them.
 
 ## COMBINED STAT CHECKS
 
-<table><tr><td vlign="top"><img src="https://github.com/2533001180/roll20-macros/blob/master/recovery-macro.png"></td><td valign="top"><img src="https://github.com/2533001180/roll20-macros/blob/master/recovery-rolls.png"></td></tr></table>
+<table><tr><td vlign="top"><img src="https://github.com/2533001180/roll20-macros/blob/master/recovery-macro.png"></td><td valign="top">[Click here to open the text for conveient copying.](https://github.com/2533001180/roll20-macros/blob/master/nine-lives-feat.txt)<img src="https://github.com/2533001180/roll20-macros/blob/master/recovery-rolls.png"></td></tr></table>
