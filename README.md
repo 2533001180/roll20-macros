@@ -2,7 +2,7 @@
 
 Roll20 macros can spice up your ordinary rolls to add flavor to them.  The macros are simple text files that you can download or copy-and-paste, and modify to achieve your own roll macros.  Please note that these do not rely on the Roll20 API, so a simple cut-and-paste from the source files here into the macro box in Roll20 will do.
 
-The examples that follow do not demonstrate all the capabilities or Roll20 rolls.  You can use the Dice Reference here https://wiki.roll20.net/Dice_Reference to get more of what you want.
+The examples that follow do not demonstrate all the capabilities or Roll20 rolls.  You can use the [Dice Reference](https://roll20.zendesk.com/hc/en-us/articles/360037773133-Dice-Reference#DiceReference-Drop/Keep) to get more of what you want.
 
 ## STAT CHECK
 
