@@ -13,8 +13,13 @@ Roll20 macros can spice up your ordinary rolls to add flavor to them.
   <tr>
     <td vlign="top">
       <img src="https://github.com/2533001180/roll20-macros/blob/master/recovery-macro.png">
-<br>
-      <a href="https://github.com/2533001180/roll20-macros/blob/master/recovery.txt">Click this link to get copy and paste text.</a>
+<p>
+  <a href="https://github.com/2533001180/roll20-macros/blob/master/recovery.txt"><b>Click this link to get copy and paste text.</b></a>
+    </td>
+    <td>
+      https://github.com/2533001180/roll20-macros/blob/master/recovery-rolls.png
+      <br>
+      <a href="https://github.com/2533001180/roll20-macros/blob/master/recovery.txt"><b>Click this link to get copy and paste text.</b></a>
     </td>
   </tr>
 </table>
