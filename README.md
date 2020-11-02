@@ -2,7 +2,7 @@
 
 Roll20 macros can spice up your ordinary rolls to add flavor to them.  The macros are simple text files that you can download or copy-and-paste, and modify to achieve your own roll macros.  Please note that these do not rely on the Roll20 API, so a simple cut-and-paste from the source files here into the macro box in Roll20 will do.
 
-## STAT CHECKS and MATH
+## STAT CHECKS WITH BASIC MATH
 
 You can use Strength, Dexterity and other stat checks in your macros.
 
