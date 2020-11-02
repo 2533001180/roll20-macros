@@ -1,6 +1,6 @@
 # Simple and Stylish Roll20 Player Macros
 
-Roll20 macros can spice up your ordinary rolls to add flavor to them.  The macros are simple text files that you can download, and modify to achieve your own roll macros.  Please note that these do not rely on the Roll20 API, so a simple cut-and-paste from the source files here into the macro box in Roll20 will do.
+Roll20 macros can spice up your ordinary rolls to add flavor to them.  The macros are simple text files that you can download or copy-and-paste, and modify to achieve your own roll macros.  Please note that these do not rely on the Roll20 API, so a simple cut-and-paste from the source files here into the macro box in Roll20 will do.
 
 ## COMBINED STAT CHECKS
 
