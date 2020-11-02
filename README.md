@@ -5,9 +5,7 @@ Roll20 macros can spice up your ordinary rolls to add flavor to them.
 
 # **FEATS**
 
-![Nine Lives Macro]()  ![Nine Lives](align=top )
-
-<table><tr><td vlign="top"><img src="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-macro.png"> text </td><<td vlign="top"><img src="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-feat.png"> text </td></tr></table>
+<table><tr><td vlign="top"><img src="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-macro.png"></td><td valign="top"><img src="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-feat.png"></td></tr></table>
 
 
 
