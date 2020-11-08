@@ -4,7 +4,7 @@ Roll20 macros can spice up your ordinary rolls to add flavor to them.  The macro
 
 The examples that follow do not demonstrate all the capabilities or Roll20 rolls.  You can use the [Dice Reference](https://roll20.zendesk.com/hc/en-us/articles/360037773133-Dice-Reference) to get more of what you want.
 
-## STAT CHECK
+## STAT CHECKS
 
 You can use Strength, Dexterity and other stat checks in your macros.
 
