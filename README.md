@@ -11,14 +11,14 @@ You can use Strength, Dexterity and other stat checks in your macros.
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github.com/2533001180/roll20-macros/blob/master/spiked-shield.png">
+      <img src="https://github.com/2533001180/roll20-macros/blob/master/recovery-macro.png">
       <p>
-      <a href="https://github.com/2533001180/roll20-macros/blob/master/spiked-shield.txtt"><b>Click this link to get copy and paste text.</b></a>
+      <a href="https://github.com/2533001180/roll20-macros/blob/master/recovery-roll.txt"><b>Click this link to get copy and paste text.</b></a>
     </td>
     <td valign="top">
-      <img src="https://github.com/2533001180/roll20-macros/blob/master/spiked-shield.png">
+      <img src="https://github.com/2533001180/roll20-macros/blob/master/recovery-rolls.png">
       <p>
-      <a href="https://github.com/2533001180/roll20-macros/blob/master/spiked-shield.txt"><b>Click this link to get copy and paste text.</b></a>
+      <a href="https://github.com/2533001180/roll20-macros/blob/master/recovery-roll.txt"><b>Click this link to get copy and paste text.</b></a>
     </td>
   </tr>
 </table>
@@ -26,25 +26,6 @@ You can use Strength, Dexterity and other stat checks in your macros.
 ## FEATS
 
 You can create interesting FEATS.
-
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-macro.png">
-      <p>
-      <a href="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-feat.txt"><b>Click this link to get copy and paste text.</b></a>
-    </td>
-    <td valign="top">
-      <img src="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-feat.png">
-      <p>
-      <a href="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-feat.txt"><b>Click this link to get copy and paste text.</b></a>
-    </td>
-  </tr>
-</table>
-
-## PASSIVE EFFECTS
-
-You can create interesting PASSIVE EFFECTS.
 
 <table>
   <tr>
