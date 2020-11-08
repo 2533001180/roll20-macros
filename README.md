@@ -51,12 +51,12 @@ You can create interesting PASSIVE EFFECTS.
     <td valign="top">
       <img src="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-macro.png">
       <p>
-      <a href="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-feat.txt"><b>Click this link to get copy and paste text.</b></a>
+      <a href="https://github.com/2533001180/roll20-macros/blob/master/spiked-shield.txt"><b>Click this link to get copy and paste text.</b></a>
     </td>
     <td valign="top">
-      <img src="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-feat.png">
+      <img src="https://github.com/2533001180/roll20-macros/blob/master/spiked-shield.png">
       <p>
-      <a href="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-feat.txt"><b>Click this link to get copy and paste text.</b></a>
+      <a href="https://github.com/2533001180/roll20-macros/blob/master/spiked-shield.txt"><b>Click this link to get copy and paste text.</b></a>
     </td>
   </tr>
 </table>
