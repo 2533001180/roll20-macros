@@ -1,0 +1,1 @@
+&{template:default} {{name=Barnaby counters with his SPIKED SHIELD.}} {{Effect 1=If Barnaby has been attacked and successfully hit, his SPIKE SHIELD inflicts [[1d4]] upon the atacker.}} {{"I bite back!"=[I bite back!](https://i.stack.imgur.com/2tzuu.jpg)}}
