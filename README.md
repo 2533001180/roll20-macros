@@ -49,7 +49,7 @@ You can create interesting PASSIVE EFFECTS.
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github.com/2533001180/roll20-macros/blob/master/nine-lives-macro.png">
+      <img src="https://github.com/2533001180/roll20-macros/blob/master/spiked-shield-macro.png">
       <p>
       <a href="https://github.com/2533001180/roll20-macros/blob/master/spiked-shield.txt"><b>Click this link to get copy and paste text.</b></a>
     </td>
