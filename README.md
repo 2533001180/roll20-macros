@@ -25,7 +25,7 @@ You can use Strength, Dexterity and other stat checks in your macros.
 
 ## FEATS
 
-You can use Strength, Dexterity and other stat checks in your macros.
+You can create interesting FEATS.
 
 <table>
   <tr>
